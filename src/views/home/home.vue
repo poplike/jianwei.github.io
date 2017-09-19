@@ -1,6 +1,6 @@
 <template> 
   <div>
-    <h2>改变</h2>
+    <h2>改变2</h2>
   </div>
 </template>
 
